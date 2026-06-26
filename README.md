@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-lov-oper&label=Profile%20views&color=0e75b6&style=flat" alt="dev-lov-oper" /> </p>
 
-- 🔭 I’m currently working on [PySocket](https://github.com/dev-lov-oper/SocketPy.gitv)
+- 🔭 I’m currently working on [SocketPy](https://github.com/dev-lov-oper/SocketPy.gitv)
 
-- 🌱 I’m currently learning **NumPy,Pandas,OpenCV**
+- 🌱 I’m currently learning **NumPy,Pandas,OpenCV,Django**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
