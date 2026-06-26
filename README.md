@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-lov-oper&label=Profile%20views&color=0e75b6&style=flat" alt="dev-lov-oper" /> </p>
 
-- 🔭 I’m currently working on [SocketPy](https://github.com/dev-lov-oper/SocketPy.gitv)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-lov-oper" alt="dev-lov-oper" /></a> </p>
 
-- 🌱 I’m currently learning **NumPy,Pandas,OpenCV,Django**
+- 🔭 I’m currently working on [PySocket](https://github.com/dev-lov-oper/SocketPy.gitv)
+
+- 🌱 I’m currently learning **NumPy,Pandas,OpenCV**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-lov-oper&show_icons=true&locale=en&layout=compact" alt="dev-lov-oper" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-lov-oper&show_icons=true&locale=en" alt="dev-lov-oper" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-lov-oper&" alt="dev-lov-oper" /></p>
