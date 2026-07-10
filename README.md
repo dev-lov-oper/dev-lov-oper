@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [High Throughput transaction processing engine]([https://github.com/dev-lov-oper/SocketPy.gitv](https://github.com/dev-lov-oper/HIGH-THROUGHPUT-TRANSACTION-PROCESSING-ENGINE.git))
 
-- 🌱 I’m currently learning **NumPy,Pandas,OpenCV**
+- 🌱 I’m currently learning **Backend , Cloud & ML**
 
 
 <p align="left">
