@@ -17,7 +17,7 @@
 current_focus:    Backend Engineering + Cloud + Machine Learning
 active_project:   High-Throughput Transaction Processing Engine
 learning:         AWS | Distributed Systems | Applied ML
-collaborate_on:   ML pipelines, backend architecture, DSA
+collaborate_on:   backend architecture, DSA
 ask_me_about:     Django, C++, Data Structures & Algorithms, Android
 fun_fact:         Debugging is 90% of the job — I'm okay with that
 ```
