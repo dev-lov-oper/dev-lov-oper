@@ -55,8 +55,8 @@ fun_fact:         Debugging is 90% of the job — I'm okay with that
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LEETCODE-50%20DAYS%20BADGE-00f5ff?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f0c29" alt="LeetCode 50 Days Badge"/>
-<img src="https://img.shields.io/badge/LEETCODE-100%20DAYS%20BADGE-ff00e5?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f0c29" alt="LeetCode 100 Days Badge"/>
+<img src="https://raw.githubusercontent.com/singhal-amit/LeetCode-Badges/main/badges/annual%20medals/2026/2026-50-days.png" alt="LeetCode 50 Days Badge" width="110"/>
+<img src="https://raw.githubusercontent.com/singhal-amit/LeetCode-Badges/main/badges/annual%20medals/2026/2026-100-days.png" alt="LeetCode 100 Days Badge" width="110"/>
 
 <br/><br/>
 
@@ -64,7 +64,7 @@ fun_fact:         Debugging is 90% of the job — I'm okay with that
 
 </div>
 
-> 💡 The stats card and streak heatmap above now pull from LeetCode username `sharvan_1007`. The two badges above are static banners — once LeetCode issues your 50-Day and 100-Day Badge certificates, swap them in for the official badge share-images from your LeetCode profile page (**Profile → Badges → share/download**).
+> 💡 The stats card and streak heatmap above pull from LeetCode username `sharvan_1007`. The 50-Day and 100-Day badge icons above are the actual 2026 LeetCode annual badge designs — once you personally earn them, your real profile will display the same icons.
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=ff00e5" width="100%"/>
 
@@ -75,7 +75,7 @@ fun_fact:         Debugging is 90% of the job — I'm okay with that
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-lov-oper&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5ff&text_color=ffffff" alt="Top Langs" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api?username=dev-lov-oper&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=ff00e5&icon_color=00f5ff&text_color=ffffff" alt="GitHub Stats" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-lov-oper&theme=tokyonight&hide_border=true&background=0f0c29&stroke=00f5ff&ring=ff00e5&fire=00f5ff&currStreakLabel=00f5ff" alt="Streak Stats"/>
+<img src="https://streak-stats.demolab.com/?user=dev-lov-oper&theme=tokyonight&hide_border=true&background=0f0c29&stroke=00f5ff&ring=ff00e5&fire=00f5ff&currStreakLabel=00f5ff" alt="Streak Stats"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=dev-lov-oper&theme=algolia&column=4&margin-w=10&margin-h=10&no-frame=true&no-bg=true" alt="Trophies"/>
 
