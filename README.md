@@ -28,7 +28,7 @@ fun_fact:         Debugging is 90% of the job — I'm okay with that
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,django,firebase,mysql,postgres,linux,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,django,supabase,mysql,postgres,linux,git&theme=dark" />
 
 </div>
 
@@ -41,7 +41,7 @@ fun_fact:         Debugging is 90% of the job — I'm okay with that
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -60,11 +60,11 @@ fun_fact:         Debugging is 90% of the job — I'm okay with that
 
 <br/><br/>
 
-<img src="https://leetcard.jacoblin.cool/dev-lov-oper?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/sharvan_1007?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
 
 </div>
 
-> 💡 Replace `dev-lov-oper` above with your actual LeetCode username so the stats card and streak heatmap pull your real data. The two badges above are static banners — once LeetCode issues your 50-Day and 100-Day Badge certificates, swap them in for the official badge share-images from your LeetCode profile page (**Profile → Badges → share/download**).
+> 💡 The stats card and streak heatmap above now pull from LeetCode username `sharvan_1007`. The two badges above are static banners — once LeetCode issues your 50-Day and 100-Day Badge certificates, swap them in for the official badge share-images from your LeetCode profile page (**Profile → Badges → share/download**).
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=ff00e5" width="100%"/>
 
