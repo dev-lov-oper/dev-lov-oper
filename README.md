@@ -64,7 +64,7 @@ fun_fact:         Debugging is 90% of the job — I'm okay with that
 
 </div>
 
-> 💡 The stats card and streak heatmap above pull from LeetCode username `sharvan_1007`. The 50-Day and 100-Day badge icons above are the actual 2026 LeetCode annual badge designs — once you personally earn them, your real profile will display the same icons.
+
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=ff00e5" width="100%"/>
 
