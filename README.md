@@ -55,7 +55,7 @@ fun_fact:         Debugging is 90% of the job — I'm okay with that
 
 </div>
 
-> 📝 **Note:** the card above is keyed to the LeetCode handle `sharvan_1007`. If that isn't the exact handle, swap it into the URL and the card will re-render automatically — that's the #1 reason a card like this shows up blank.
+
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=ff00e5" width="100%"/>
 
@@ -76,7 +76,6 @@ fun_fact:         Debugging is 90% of the job — I'm okay with that
 
 </div>
 
-> 📝 **Note:** these three widgets are hosted on free Vercel instances. They occasionally cold-start slowly or rate-limit on first load — refreshing the page after a few seconds usually fixes a blank box. If one stays blank for good, it means `dev-lov-oper` needs to be swapped for the correct GitHub handle.
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00f5ff" width="100%"/>
 
