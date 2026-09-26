@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=SHARVAN%20KOTHARU&fontSize=42&fontColor=00f5ff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Enthusiast%20%7C%20Backend%20%26%20Cloud%20Developer&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=%3E+Building+scalable+systems...;%3E+Django+%2B+ML+%2B+Cloud;%3E+Turning+coffee+into+code;%3E+Currently%3A+High-Throughput+Txn+Engine" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=%3E+Building+scalable+systems...;%3E+Turning+coffee+into+code;" alt="Typing SVG" />
 
 <br/>
 
