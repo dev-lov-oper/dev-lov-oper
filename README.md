@@ -18,7 +18,7 @@
 
 ```yaml
 current_focus:    Backend Engineering + Cloud + Machine Learning
-active_project:   High-Throughput Transaction Processing Engine
+active_project:   Voyara-TAMS
 learning:         AWS | Distributed Systems | Applied ML
 collaborate_on:   Backend architecture, DSA, hackathon builds
 fun_fact:         Debugging is 90% of the job — I'm okay with that
